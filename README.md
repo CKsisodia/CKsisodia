@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻I shape user-friendly interfaces as a frontend developer.<br>🔭 I’m currently working on Customer Credit Management software and ScrapData Tester. <br>🌱 I’m currently learning Backend technologies.<br>💬 Ask me about :- React and Next.js<br>⚡ Fun fact :-  I'm fascinated by the evolution of the web! Did you know that the first website ever published went live in 1991? Created by Tim Berners-Lee, it provided information about the World Wide Web project and was hosted on a NeXT computer. It's incredible to see how far we've come since then!
+🧑‍💻1.5+ years in the frontend, where design meets code and ideas come alive.<br><br>🔭 Contributed to an Array of projects. <br><br>🌱 Familiar with backend technologies and deployment workflows.<br><br>💬 Ask me about :- HTML, CSS, JavaScript and REACT.<br><br>⚡ contact me at :- cksisodia3@gmail.com
 
 
 ## 🌐 Socials:
