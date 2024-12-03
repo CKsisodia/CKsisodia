@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻1.5+ years in the frontend, where design meets code and ideas come alive.<br><br>🔭 Contributed to an Array of projects. <br><br>🌱 Familiar with backend technologies and deployment workflows.<br><br>💬 Ask me about :- HTML, CSS, JavaScript and REACT.<br><br>⚡ contact me at :- cksisodia3@gmail.com
+🧑‍💻Frontend Developer with hands-on experience in React, JavaScript and various other libraries.<br><br>🔭 Contributed to an Array of projects. <br><br>🌱 Familiar with backend technologies and deployment workflows.<br><br>💬 Ask me about :- HTML, CSS, JavaScript and REACT.<br><br>⚡ contact me at :- cksisodia3@gmail.com
 
 
 ## 🌐 Socials:
